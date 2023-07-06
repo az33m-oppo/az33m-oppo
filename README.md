@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Molaqat project 👉https://molaqat.com/
+- 🌱 I’m currently learning VueJs From different platform such as youtube udemy etc
+- 👯 I’m looking to collaborate on your project
+- 💬 Ask me about any question related to web development...
+- 📫 How to reach me: My email id is azeemwahla187@gmail.com
+- My upwork link 👉 https://www.upwork.com/freelancers/azeemw3
+- My linkedin link 👉https://www.linkedin.com/in/muhammad-azeem-8a1b12176/
 <!--
 **az33m-oppo/az33m-oppo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
